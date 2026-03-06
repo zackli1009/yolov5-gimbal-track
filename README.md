@@ -5,4 +5,9 @@
 
 硬件平台为 jetson orin
 PWM舵机由PCA9685A驱动
-![Uploading image.png…]()
+
+
+
+
+<img width="2284" height="1157" alt="image" src="https://github.com/user-attachments/assets/121d1c7b-e952-443a-a5c1-ba97f174f48f" />
+
